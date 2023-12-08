@@ -1,4 +1,4 @@
-third_party/detectron2
+third_party/detectron8
 # output dir
 output
 instant_test_output
